@@ -3,7 +3,8 @@
 // 2016-10-31 papa Creative Commons - http://creativecommons.org/licenses/by-nc-sa/3.0/de/
 // 2018-12-01 jp112sdl Creative Commons - http://creativecommons.org/licenses/by-nc-sa/3.0/de/
 //- -----------------------------------------------------------------------------------------------------------------------
-// ci-test=yes board=1284pSTD aes=no
+// 2023-07-23 bestfan Creative Commons - http://creativecommons.org/licenses/by-nc-sa/4.0/de/
+// board=rasberry pi pico, flash size=2MB(no FS), CPU speed = 133MHz
 
 // use Arduino IDE Board Setting: STANDARD Layout
 
