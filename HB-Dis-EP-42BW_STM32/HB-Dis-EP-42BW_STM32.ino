@@ -3,11 +3,12 @@
 // 2016-10-31 papa Creative Commons - http://creativecommons.org/licenses/by-nc-sa/3.0/de/
 // 2018-12-01 jp112sdl Creative Commons - http://creativecommons.org/licenses/by-nc-sa/3.0/de/
 //- -----------------------------------------------------------------------------------------------------------------------
-// ci-test=yes board=1284pSTD aes=no
+// 2023-07-23 bestfan Creative Commons - http://creativecommons.org/licenses/by-nc-sa/4.0/de/
+// board=generic STM32F103C series, variant=STM32F103CB (20k RAM. 128kb flash), upload method=stm32duino bootloader
 
 // use Arduino IDE Board Setting: STANDARD Layout
 
-#define GxEPD2lib
+#define GxEPD2lib  // if commented GxEPD is used
 //#define USE_CC1101_ALT_FREQ
 
 #if defined ARDUINO_ARCH_STM32F1
